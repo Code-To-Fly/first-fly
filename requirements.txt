@@ -1,3 +1,2 @@
 tello-solectric-pl
-logger
 
